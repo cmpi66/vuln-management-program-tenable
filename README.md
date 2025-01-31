@@ -37,7 +37,7 @@ The teams collaborate with the server team to initiate scheduled credential scan
 We now deploy an insecure Windows server to simulate the server team's env. After creating vulnerabilities, an authenticated scan is performed. The results are exported for remediation steps.
 
 
-![Scan 1](./1st-scan.png.png)
+![Scan 1](./1st-scan.png)
 
 [Scan 1 Initial Scan](./win-server-scan-final-cmunoz-1st-scan.pdf)
 

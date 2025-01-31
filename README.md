@@ -99,7 +99,7 @@ The remediation process reduced total vulnerabilities by 75%, from 28 to 6. Crit
 
 [Vuln data](./vuln-graph-progession.png)
 
-[Remediation Data](./Vulnerability-Remediation-Progress.xlsx)
+<!-- [Remediation Data](./Vulnerability-Remediation-Progress.xlsx) -->
 
 ### On-going Vulnerability Management (Maintenance Mode)
 

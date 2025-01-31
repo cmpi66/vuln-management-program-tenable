@@ -97,9 +97,9 @@ Windows updates was re-enabled and the server was brought fully up-to-date. A fo
 
 The remediation process reduced total vulnerabilities by 75%, from 28 to 6. Critical vulnerabilities were resolved by the second scan (100%), and high vulnerabilities declined by 80%. Mediums were reduced by 73%. In an actual production environment, asset criticality would further guide future remediation efforts.  
 
-[Vuln data](./vuln-graph-progession.png)
+![Vuln data](./vuln-graph-progession.png)
 
-<!-- [Remediation Data](./Vulnerability-Remediation-Progress.xlsx) -->
+[Remediation Data](./Vulnerability-Remediation-Progress.xlsx)
 
 ### On-going Vulnerability Management (Maintenance Mode)
 
